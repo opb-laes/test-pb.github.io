@@ -1,5 +1,5 @@
 ﻿// creating an array and passing the number, questions, options, and answers
-let questions_all = [
+let questions = [
     {
     numb: 1,
     question: "Каким документом утверждены действующие правила противопожарного режима в Российской Федерации?",
